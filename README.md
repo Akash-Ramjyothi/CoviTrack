@@ -1,22 +1,33 @@
-## COVID-19 TRACKER
+![virus](https://user-images.githubusercontent.com/54114888/117597694-bd418b00-b163-11eb-9416-00844c8315c5.png)
+# CoviTrack
 
-This coronavirus tracking web application is made using reactjs. This website displays the information using charts for every different country and states in India affected by it. It fetches data from these amazing apis:
+## 📑 Description:
+The "CoviTrack" is a coronavirus tracking web application is made using reactjs. This website displays the information using charts for every different country and states in India affected by it. It fetches data from a few amazing APIs.
 
-https://covid19.mathdro.id/api
+## 🌎 Deployed Website:
+https://covi-track.netlify.app/
 
-https://api.covid19india.org/data.json
+## 🏗 Built with:
+- React.JS.
+- JQuery.
+- https://covid19.mathdro.id/api
+- https://api.covid19india.org/data.json
 
-I would also like to mention this amazing tutorial which helped me a lot in building this: https://www.youtube.com/watch?v=khJlrj3Y6Ls
+## 👦 Developed By:
+- Akash Ramjyothi.
+- Email ID: akash.ramjyothi@gmail.com
+- PH: +91 8939928002.
+- LinkedIn: https://www.linkedin.com/in/akash-ramjyothi/
 
+## 🌐 References Used:
+- https://www.youtube.com/watch?v=khJlrj3Y6Ls
+- https://www.freecodecamp.org/news/how-to-create-corona-tracker-app-in-3-days/
+- https://towardsdatascience.com/lets-create-a-covid-19-tracker-using-react-js-5a3a0265a633
 
-To run this on your machine locally, in your project directory run:
+## 🧪 Steps to locally build the website:
 
 ### `npm install`
+To Install dependencies by NPM.
 
-And then:
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
+### `npm run start`
+Setting up and runs on port 3000.
